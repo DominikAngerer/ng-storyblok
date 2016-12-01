@@ -7,5 +7,5 @@
  */
 
 export * from './db';
-export * from './directives';
+export * frm './directives';
 export * from './module';
