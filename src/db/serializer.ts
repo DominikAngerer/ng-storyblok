@@ -8,7 +8,7 @@
 
 import { Injectable } from '@angular/core';
 import { SBStory, SBComponent } from './model';
-import { SBComponentSchema, SBStorySchema } from './schema';
+import { SBComponentSchema } from './schema';
 
 /**
  * Normally, the store will use the serializer to convert a json or string
